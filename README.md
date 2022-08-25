@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elahe Sadat Kazemi Nasab.
 - 👀 I’m interested in Programing, painting, music and Tourism.
-- 🌱 I’m currently learning deep learning with python.
 - 💞️ I’m looking to collaborate on in the field of artificial intelligence.
 
 <!---
