@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elahe Sadat Kazemi Nasab.
-- 👀 I’m interested in Programing, painting, music and Tourism.
+- 👀 I’m interested in Programing, painting, music and Tourism. I work as an artificial intelligence expert in ARIAPA company.
 - 💞️ I’m looking to collaborate on in the field of artificial intelligence.
 
 <!---
